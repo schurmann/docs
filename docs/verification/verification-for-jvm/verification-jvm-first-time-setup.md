@@ -31,7 +31,7 @@ dependencies {
 ```
 
 pom.xml:
-```text
+```xml
 <dependency>
   <groupId>com.sinch.jvm.sdk.verification</groupId>
   <artifactId>library</artifactId>
